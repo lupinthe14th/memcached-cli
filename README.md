@@ -1,2 +1,2 @@
-# memcached-cli
-Memcached cli
+# cache-cli
+elasticache cli
