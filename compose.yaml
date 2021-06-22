@@ -1,0 +1,10 @@
+---
+services:
+  memcached1:
+    image: memcached
+    ports:
+      - "11211:11211"
+  memcached2:
+    image: memcached
+    ports:
+      - "11212:11211"
