@@ -2,7 +2,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lupinthe14th/memcached-cli)
 ![](https://github.com/lupinthe14th/memcached-cli/workflows/CI/badge.svg)
 ![](https://github.com/lupinthe14th/memcached-cli/workflows/release/badge.svg)
-[![codecov](https://codecov.io/gh/lupinthe14th/memcached-cli/branch/main/graph/badge.svg?token=QXYBJF3NBE)](undefined)
+[![codecov](https://codecov.io/gh/lupinthe14th/memcached-cli/branch/main/graph/badge.svg?token=kDwSxcIXa0)](https://codecov.io/gh/lupinthe14th/memcached-cli)
 [![Go Report Card](https://goreportcard.com/badge/github.com/lupinthe14th/memcached-cli)][goreportcard]
 
 ## Introduction
